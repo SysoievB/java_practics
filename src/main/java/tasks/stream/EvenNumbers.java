@@ -1,4 +1,4 @@
-package tasks;
+package tasks.stream;
 
 import java.util.List;
 
